@@ -1,0 +1,20 @@
+{
+  "name": "react-types-typedoc",
+  "version": "1.0.0",
+  "description": "Documentation for @types/react provided by TypeDoc.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gojutin/react-types-typedoc.git"
+  },
+  "keywords": [],
+  "author": "gojutin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gojutin/react-types-typedoc/issues"
+  },
+  "homepage": "https://github.com/gojutin/react-types-typedoc#readme"
+}
